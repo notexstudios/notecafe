@@ -59,6 +59,7 @@
     color: rgb(220, 112, 17);
     text-align: center;
     font-size: 30px;
+    margin-top:8rem;
 }
  .content p{
      
@@ -68,7 +69,7 @@
  }
  .search{
      position: static;
-     margin-top: 26%;
+     margin-top: 8rem;
      margin-left: 42%;
      align-self: center;
      
