@@ -1,0 +1,27 @@
+body {background-color: orangered;
+
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color:rgb(213, 87, 20)a;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.about {
+  padding: 20px;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
